@@ -2,9 +2,6 @@
 
 I'm Daniel - Just another GitHub user who likes to code!
 
-## 🔭 I’m currently working on 
-1. [OLTB - Toolbar for OpenLayers map engine | JS](https://github.com/qulle/oltb)
-
 ## 💡 Useful working projects
 1. [OLTB - Toolbar for OpenLayers map engine | JS](https://github.com/qulle/oltb)
 2. [Activity Timeline | TS](https://github.com/qulle/activity-timeline)
