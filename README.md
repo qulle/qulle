@@ -3,12 +3,16 @@
 I'm Daniel - Just another GitHub user who likes to code!
 
 ## 💡 Projects
-- [OLTB - Toolbar for OpenLayers | JS](https://github.com/qulle/oltb)
-- [Activity Timeline | TS](https://github.com/qulle/activity-timeline)
-- [Avanza Fetcher | Python](https://github.com/qulle/avanza-fetcher-py)
-- [Avanza Fetcher | C++](https://github.com/qulle/avanza-fetcher-cpp)
-- [SVG Wind barbs | SVG/JS](https://github.com/qulle/svg-wind-barbs)
-- [Tree | Ada](https://github.com/qulle/tree)
+- TypeScript / JavaScript
+    - [OLTB - Toolbar for OpenLayers](https://github.com/qulle/oltb)
+    - [Activity Timeline](https://github.com/qulle/activity-timeline)
+    - [SVG Wind barbs](https://github.com/qulle/svg-wind-barbs)
+- C++
+    - [Avanza Fetcher](https://github.com/qulle/avanza-fetcher-cpp)
+- Python
+    - [Avanza Fetcher](https://github.com/qulle/avanza-fetcher-py)
+- Ada
+    - [Tree](https://github.com/qulle/tree)
 
 ## 🚀 Documentation
 - Angular
@@ -21,7 +25,7 @@ I'm Daniel - Just another GitHub user who likes to code!
     - [Global Error Handler](https://github.com/qulle/angular-global-error-handler)
 - .NET
     - [Web APIs](https://github.com/qulle/dotnet-5-web-api-documentation)
-- JavaScript
+- TypeScript / JavaScript
     - [API Fetch Wrapper](https://github.com/qulle/api-fetch-wrapper)
 - SQL
     - [Automatic Logging](https://github.com/qulle/mssql-automatic-logging)
